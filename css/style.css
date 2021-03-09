@@ -134,8 +134,8 @@ a:hover {
 }
 
 .contact {
+   background-image: linear-gradient(black, black);
   background-image: url(../gambar/bg1.jpg);
-  background-image:linear-gradient(black, black);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: saturation;
