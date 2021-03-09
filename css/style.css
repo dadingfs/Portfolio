@@ -133,13 +133,14 @@ a:hover {
   background: linear-gradient(#20c997, #212529);
 }
 
-.contact {
-  background-image: 
-    url(../gambar/bg1.jpg), 
-    linear-gradient(black, black);
+.contact::before {
+  background-image: url(../gambar/bg1.jpg);
+  filter: grayscale(100%);
   background-repeat: no-repeat;
   background-size: cover;
-  background-blend-mode: saturation;
   background-position-x: 90%;
   background-position-y: 10%;
+}
+.contact-inside{
+  position: relative;
 }
