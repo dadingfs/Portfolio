@@ -5,7 +5,7 @@ body {
   scale: 120%;
 }
 .jumbotron {
-  background-image: url('../gambar/bg1.jpg');
+  background-image: url('https://raw.githubusercontent.com/dadingfs/dadingfs.github.io/Portfolio/gambar/bg1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position-x: 90%;
