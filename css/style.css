@@ -134,11 +134,9 @@ a:hover {
 }
 
 .contact{
-  background-image: url(../gambar/bg1.jpg);
-  background-color: linear-gradient(black, black);
+  background-image: url(../gambar/bg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-blend-mode: saturation;
   background-position-x: 90%;
   background-position-y: 10%;
 }
