@@ -135,7 +135,6 @@ a:hover {
 
 .contact{
   background-image: url(../gambar/bg1.jpg);
-  filter: grayscale(100%);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: saturation;
