@@ -133,7 +133,7 @@ a:hover {
   background: linear-gradient(#20c997, #212529);
 }
 
-.contact {
+#Contact {
   background-image: url(../gambar/bg1.jpg), linear-gradient(black, black);
   background-repeat: no-repeat;
   background-size: cover;
