@@ -138,6 +138,7 @@ a:hover {
   filter: grayscale(100%);
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: saturation;
   background-position-x: 90%;
   background-position-y: 10%;
 }
