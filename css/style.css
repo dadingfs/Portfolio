@@ -134,7 +134,7 @@ a:hover {
 }
 
 .contact {
-  background-image: linear-gradient(black, black), url(https://raw.githubusercontent.com/dadingfs/dadingfs.github.io/Portfolio/gambar/bg1.jpg);
+  background-image: linear-gradient(black, black), url(../gambar/bg1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode: saturation;
